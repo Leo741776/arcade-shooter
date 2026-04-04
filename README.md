@@ -1,6 +1,6 @@
 # 2D Arcade Shooter
 
-This is a vertical arcade shoot 'em up game where the player sprite battles waves of spawning enemies.
+This is a vertical arcade shoot 'em up game where the player sprite battles waves of spawning enemies. Written in Java with the JavaFX framework.
 
 ## Quick Start
 
@@ -8,10 +8,7 @@ This is a vertical arcade shoot 'em up game where the player sprite battles wave
 2. Configure VM options for the run configuration by adding the following to your VM options: `--module-path "\path\to\javafx-sdk-26\lib" --add-modules javafx.controls,javafx.fxml` making sure to replace `"\path\to\javafx-sdk-26\lib"` with your actual JavaFX lib directory.
 3. Finally, set the main class to source.core.Launcher and run.
 
-## How It's Made
-
-**Language:** Java  
-**Toolkit:** JavaFX
+## Overview
 
 - **Game Loop:** The core game loop has GameManager.java drive an AnimationTimer each frame - updating difficulty, handling input, spawning enemies/power-ups, moving projectiles, and invoking CollisionManager.java which handles collision detection.
 
