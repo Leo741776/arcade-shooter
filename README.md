@@ -30,7 +30,7 @@ This is a vertical arcade shoot 'em up game where the player sprite battles wave
 ## Screenshots
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e685baa8-0a34-4714-aefd-aa714d063f56" width="30%"/>
-  <img src="https://github.com/user-attachments/assets/98907cab-e58e-404a-a692-2ccb0a65a61c" width="30%"/>
-  <img src="https://github.com/user-attachments/assets/8972718e-ae72-474d-a01d-e13679787455" width="30%"/>
+  <img src="https://github.com/user-attachments/assets/0c53d460-6b98-41db-8b2c-ad4ca6223624" width="30%"/>
+  <img src="https://github.com/user-attachments/assets/7a84f2ff-b769-4944-b11d-978c50f03582" width="30%"/>
+  <img src="https://github.com/user-attachments/assets/5fa92cac-5c53-45c6-bf68-660ed343c6d6" width="30%"/>
 </p>
