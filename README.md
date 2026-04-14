@@ -1,4 +1,4 @@
-# Arcade Shooter
+# 2D Arcade Shoot 'Em Up
 This is a vertical arcade shoot 'em up game where the player sprite battles waves of spawning enemies. Written in Java with the JavaFX framework.
 
 ## Quick Start
