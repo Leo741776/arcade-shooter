@@ -1,6 +1,3 @@
-// Bootstraps the JavaFX scene graph, wires up top-level managers, and owns
-// input routing — the only class with direct access to the Stage and Scene.
-
 package core;
 
 import javafx.application.Application;

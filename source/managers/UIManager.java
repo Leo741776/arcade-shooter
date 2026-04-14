@@ -1,6 +1,3 @@
-// Manages all UI elements rendered on the uiPane overlay, keeping them
-// separate from gameplay nodes so they are never affected by game logic.
-
 package managers;
 
 import core.GameState;

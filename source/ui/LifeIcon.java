@@ -1,6 +1,3 @@
-// Represents a single life indicator in the HUD.
-// Reuses the player's pizza.png sprite at a smaller size to visually tie the icon to the player.
-
 package ui;
 
 import javafx.scene.image.Image;

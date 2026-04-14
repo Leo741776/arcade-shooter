@@ -1,6 +1,3 @@
-// Creates an infinite scrolling background by using two ImageViews stacked
-// vertically — when one scrolls off the bottom it is repositioned above the other.
-
 package managers;
 
 import javafx.animation.Animation;

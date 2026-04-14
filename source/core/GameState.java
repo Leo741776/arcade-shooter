@@ -1,6 +1,3 @@
-// Shared data container passed between managers so each system can read/write
-// game state without needing direct references to one another.
-
 package core;
 
 public class GameState {

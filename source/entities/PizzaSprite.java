@@ -1,6 +1,3 @@
-// Represents the player's pizza ship. Also reused as visual clones
-// for the pepper triple-shot power-up rather than creating a separate class.
-
 package entities;
 
 import javafx.animation.FadeTransition;

@@ -1,6 +1,3 @@
-// Owns the main game loop and coordinates player input, movement, firing,
-// enemy/power-up spawning, and difficulty scaling each frame.
-
 package managers;
 
 import core.GameState;

@@ -1,6 +1,3 @@
-// Projectile fired downward by enemies. Moves via AnimationTimer and removes
-// itself when it exits the bottom of the screen or is destroyed by a collision.
-
 package entities;
 
 import javafx.animation.AnimationTimer;

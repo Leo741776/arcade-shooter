@@ -1,6 +1,3 @@
-// Power-up pickup that travels downward in a zigzag path.
-// Collected by the player to temporarily reduce the fire cooldown.
-
 package entities;
 
 import javafx.animation.PathTransition;

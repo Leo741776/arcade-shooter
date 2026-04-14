@@ -1,6 +1,3 @@
-// Represents an enemy that spawns above the screen and travels downward
-// along a randomized zigzag path while periodically firing at the player.
-
 package entities;
 
 import javafx.animation.PathTransition;

@@ -1,6 +1,3 @@
-// Provides pixel-level collision detection for ImageView nodes.
-// Padding support allows hitboxes to be shrunk for more forgiving, gameplay-feel collisions.
-
 package systems;
 
 import javafx.geometry.BoundingBox;

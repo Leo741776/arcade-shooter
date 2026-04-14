@@ -1,6 +1,3 @@
-// Power-up pickup that travels downward in a zigzag path.
-// Collected by the player to temporarily enable triple-shot firing.
-
 package entities;
 
 import javafx.animation.PathTransition;

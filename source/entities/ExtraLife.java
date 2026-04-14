@@ -1,6 +1,3 @@
-// Extra life pickup that travels downward in a zigzag path.
-// Collected by the player to restore one life, capped at 3.
-
 package entities;
 
 import javafx.animation.PathTransition;

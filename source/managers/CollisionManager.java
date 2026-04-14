@@ -1,6 +1,3 @@
-// Static manager called every frame to process all collisions between
-// the player, enemies, projectiles, and power-ups, and to drive game-over logic.
-
 package managers;
 import entities.PizzaSprite;
 import ui.LifeIcon;

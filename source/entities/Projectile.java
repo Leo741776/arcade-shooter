@@ -1,6 +1,3 @@
-// Projectile fired upward by the player. Uses a Timeline instead of
-// AnimationTimer so the firing rate stays consistent with the game's frame budget.
-
 package entities;
 
 import javafx.animation.Animation;

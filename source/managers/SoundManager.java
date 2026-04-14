@@ -1,7 +1,3 @@
-// Static utility class for playing all game sound effects.
-// AudioClips are used instead of MediaPlayer because they support overlapping playback
-// and are loaded once at class init to avoid per-call latency during gameplay.
-
 package managers;
 
 import javafx.scene.media.AudioClip;
